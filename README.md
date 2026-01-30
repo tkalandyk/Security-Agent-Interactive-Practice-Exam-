@@ -44,14 +44,6 @@ This project solves that by creating a **clean, guided test experience** that’
 
 ---
 
-## Demo
-> Loom walkthrough: *(add your Loom link here)*  
-- What the app is  
-- How a session works  
-- How scoring/explanations are delivered  
-
----
-
 
 ## Tech Stack (Simple View)
 This prototype is built as a lightweight web app:
