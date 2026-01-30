@@ -45,26 +45,6 @@ This project solves that by creating a **clean, guided test experience** that’
 
 ---
 
-## Why This Project Matters (For Recruiters)
-This repo isn’t “just a quiz app.” It demonstrates how I think and build:
-
-### Product Thinking
-- Identified a real workflow pain (static practice → friction)
-- Built a guided experience that increases repetition and learning speed
-- Focused on feedback loops (instant grading + explanations + score)
-
-### Engineering Execution
-- Built a working prototype with a clean user flow
-- Structured the app like a real product (session setup → quiz → results)
-- Designed around accuracy and consistency (questions/answers mapped reliably)
-
-### Security + Learning Alignment
-This project is directly aligned with what I’m studying and practicing:
-- Learning reinforcement loops
-- Exam-style session pacing
-- Consistent progress measurement
-
----
 
 ## Tech Stack (Simple View)
 This prototype is built as a lightweight web app:
@@ -72,7 +52,7 @@ This prototype is built as a lightweight web app:
 - **Backend**: session logic and grading  
 - **Content Parsing**: converts a static question source into structured quiz data  
 
-*(Intentionally kept high-level here—details are available in the code for reviewers.)*
+*(Intentionally kept high-level here.)*
 
 ---
 
@@ -85,40 +65,9 @@ This prototype is built as a lightweight web app:
 
 ---
 
-## Getting Started
-> If you’re reviewing this as a hiring manager: the fastest way is to watch the Loom demo.
 
-### Local Run (General)
-1. Clone the repo  
-2. Install dependencies  
-3. Start the app  
-4. Open in browser and begin a session  
-
-> Detailed setup steps can live in a `/docs` folder if needed.
-
----
-
-## Roadmap (Next Iterations)
-If I continue this project, the next improvements are:
-- **Performance history** (track scores over time)
-- **Weak-area focus** (auto-practice missed topics)
-- **Timed exam mode** (simulate real test pressure)
-- **Question review mode** (revisit incorrect answers)
-- **Exportable progress summary** (shareable results)
-
----
 
 ## Notes on Content & Attribution
 This is a **personal study prototype** intended to enhance a learner’s workflow.
 - Question content and explanations are attributed to their original source (Professor Messer materials).
 - This repo is meant to demonstrate application design and workflow automation—not to redistribute protected content.
-
----
-
-## Contact
-If you’re hiring for roles in security, GRC, vuln management, SOC, or technical product execution:
-- LinkedIn: *(add link)*
-- Email: *(add email)*
-- Portfolio/GitHub: *(add link if separate)*
-
----
