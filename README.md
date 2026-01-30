@@ -7,6 +7,9 @@
 Instead of manually reading questions, guessing, and flipping pages to check answers, this app delivers questions one-by-one, grades selections instantly, and provides **clear explanations for both correct and incorrect answers** (using the source’s explanations). At the end, users get a **score summary** to measure readiness.
 
 ---
+## 🎥 Click Video to Play ⬇️
+[![Video](https://github.com/user-attachments/assets/16120972-37fa-4092-bf0e-dbbd7f524c1e)](https://youtu.be/QVMKE7oFwC0?si=lSgr5oDQJwKxweXu)
+---
 
 ## The Problem I Solved
 Studying from practice PDFs is effective—but the workflow is inefficient:
