@@ -4,10 +4,6 @@
 **Security+ Agent** is a prototype study application built to help learners prepare for the **CompTIA Security+** exam by turning a static practice-question experience into an **interactive quiz session**.
 
 
-[![Video](https://github.com/user-attachments/assets/16120972-37fa-4092-bf0e-dbbd7f524c1e)](https://youtu.be/QVMKE7oFwC0?si=lSgr5oDQJwKxweXu)
-
-
-
 Instead of manually reading questions, guessing, and flipping pages to check answers, this app delivers questions one-by-one, grades selections instantly, and provides **clear explanations for both correct and incorrect answers** (using the source’s explanations). At the end, users get a **score summary** to measure readiness.
 
 ---
