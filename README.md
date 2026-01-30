@@ -1,4 +1,4 @@
-# Security+ Agent — Interactive Practice Exam App (Prototype)
+# Security+ Agent Interactive Practice Exam (Prototype)
 
 ## Overview
 **Security+ Agent** is a prototype study application built to help learners prepare for the **CompTIA Security+** exam by turning a static practice-question experience into an **interactive quiz session**.
