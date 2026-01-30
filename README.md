@@ -1,3 +1,6 @@
+
+<img width="1024" height="1536" alt="ChatGPT Image Jan 29, 2026, 08_28_30 PM" src="https://github.com/user-attachments/assets/685209a2-c08c-4097-af15-1d6ba363b451" />
+
 # Security+ Agent Interactive Practice Exam (Prototype)
 
 ## Overview
@@ -7,7 +10,7 @@
 Instead of manually reading questions, guessing, and flipping pages to check answers, this app delivers questions one-by-one, grades selections instantly, and provides **clear explanations for both correct and incorrect answers** (using the source’s explanations). At the end, users get a **score summary** to measure readiness.
 
 ---
-## 🎥 Click Video to Play ⬇️
+## 🎥 Click Watch Demo ⬇️
 [![Video](https://github.com/user-attachments/assets/16120972-37fa-4092-bf0e-dbbd7f524c1e)](https://youtu.be/QVMKE7oFwC0?si=lSgr5oDQJwKxweXu)
 ---
 
